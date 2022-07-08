@@ -13,6 +13,9 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
+  "engines": {
+    "node": "16.x"
+  },  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chartbrew/chartbrew.git"
